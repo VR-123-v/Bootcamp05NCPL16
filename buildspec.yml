@@ -5,7 +5,7 @@ env:
     # Replace with your ECR repository URI
     REPOSITORY_URI: 014869289060.dkr.ecr.us-east-2.amazonaws.com/devopsvimal
     # Container name must match ECS task definition container name
-    DOCKER_CONTAINER_NAME: devopsvimal
+    DOCKER_CONTAINER_NAME: bootcamp05
 
 phases:
   pre_build:
